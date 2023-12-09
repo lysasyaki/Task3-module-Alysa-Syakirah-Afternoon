@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">taskModule</string>
+    <string name="add_note">Add Note</string>
+    <string name="note">Note</string>
+    <string name="submit">Submit</string>
+    <string name="cancle">Cancel</string>
+</resources>
